@@ -90,11 +90,14 @@ start coverage/lcov-report/index.html
 
 📸 **Screenshots:**
 
-| Screenshot | Description |
-|------------|-------------|
-| [overall-coverage.png](public/screenshots/overall-coverage.png) | 77% overall coverage report |
-| [unit-tests.png](public/screenshots/unit-tests.png) | 36 unit tests passing |
-| [integration-tests.png](public/screenshots/integration-tests.png) | 13 integration tests passing |
+### Overall Coverage (77%)
+![Overall Coverage](public/screenshots/overall-coverage.png)
+
+### Unit Tests (36 passing)
+![Unit Tests](public/screenshots/unit-tests.png)
+
+### Integration Tests (13 passing)
+![Integration Tests](public/screenshots/integration-tests.png)
 
 ---
 
@@ -446,7 +449,6 @@ coverageThreshold: {
 | Form Validation | `client/src/components/` | Early error detection |
 | Env Config | `.env` files | Environment-specific settings |
 
-**Full details:** See `DOCUMENTATION.md`
 
 ## 🚀 Quick Setup
 
@@ -493,28 +495,6 @@ npm run test:e2e             # E2E only
 
 ---
 
-## 📸 Screenshots Required
-
-### To Complete Assignment:
-
-1. **Overall Coverage Report:**
-   - Run: `npm test -- --coverage`
-   - Open: `coverage/lcov-report/index.html`
-   - Screenshot showing overall 77% coverage
-
-2. **Unit Test Results:**
-   - Terminal output showing 36 unit tests passing
-   - Coverage for Button.jsx, AuthContext.jsx, Post.js, auth.js, errorHandler.js
-
-3. **Integration Test Results:**
-   - Terminal output showing 16 integration tests passing
-   - API endpoint test results
-
-4. **E2E Test Results:**
-   - Cypress dashboard or terminal showing 6 E2E tests passing
-   - Optional: Video recordings of test runs
-
----
 
 ## 🎓 Key Learnings
 
@@ -544,8 +524,6 @@ npm run test:e2e             # E2E only
 ## 📚 Resources
 
 [Jest](https://jestjs.io) • [React Testing Library](https://testing-library.com) • [Cypress](https://cypress.io) • [Supertest](https://github.com/visionmedia/supertest)
-
-**Full Documentation:** See `DOCUMENTATION.md` for detailed examples and implementation
 
 ---
 
