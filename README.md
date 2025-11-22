@@ -91,13 +91,13 @@ start coverage/lcov-report/index.html
 📸 **Screenshots:**
 
 ### Overall Coverage (77%)
-![Overall Coverage](public/screenshots/overall-coverage.png)
+<img src="public/screenshots/overall-coverage.png" width="800" alt="Overall Coverage">
 
 ### Unit Tests (36 passing)
-![Unit Tests](public/screenshots/unit-tests.png)
+<img src="public/screenshots/unit-tests.png" width="800" alt="Unit Tests">
 
 ### Integration Tests (13 passing)
-![Integration Tests](public/screenshots/integration-tests.png)
+<img src="public/screenshots/integration-tests.png" width="800" alt="Integration Tests">
 
 ---
 
